@@ -2,4 +2,4 @@
 
 ## Utility files for Python
 
-1. Read matlab file into Python
+1. Read .mat file into Python
